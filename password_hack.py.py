@@ -1,7 +1,7 @@
 import random
 import string
 
-
+#password depend on strings and digits.
 input = str(input("Enter your strong password in letters and digits : "))
 
 add = string.ascii_letters + string.digits
